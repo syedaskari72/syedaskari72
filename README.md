@@ -25,7 +25,6 @@ I currently work on outsourced client projects for a software house, turning rea
 <br><br>
 🚚&nbsp; <b>Fuel Delivery System</b> — an on-demand fuel delivery platform<br>
 🤖&nbsp; <b>AI Reminder Application</b> — a smart, AI-powered reminders app<br>
-⛵&nbsp; <b>Boatit</b> — a client platform built end-to-end<br>
 🏥&nbsp; <b>CareBridge</b> — a PWA connecting patients with healthcare professionals
 <br><br>
 🌱&nbsp; Currently leveling up my backend skills with <b>NestJS</b><br>
