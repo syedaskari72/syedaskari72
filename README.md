@@ -93,6 +93,7 @@ I currently work on outsourced client projects for a software house, turning rea
 |---|---|
 | 🚚 Fuel Delivery System | Outsourced client project — on-demand fuel delivery platform |
 | 🤖 AI Reminder Application | Outsourced client project — smart AI-powered reminders app |
+| ⛵ Boatit | Outsourced client project built for a software house |
 | [CareBridge](https://github.com/syedaskari72/carebridge2) | On-demand home healthcare PWA — Next.js 15 & TypeScript |
 | [Customer Support Bot](https://github.com/syedaskari72/Customer-Support-Bot) | AI-powered chatbot for food delivery customer support |
 | [AuthX Secure Login System](https://github.com/syedaskari72/AuthX-Secure-Login-System) | MERN-based auth system with OTP verification (email + phone) |
@@ -113,8 +114,8 @@ I currently work on outsourced client projects for a software house, turning rea
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedaskari72&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedaskari72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=syedaskari72&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedaskari72&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
